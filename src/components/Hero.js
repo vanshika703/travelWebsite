@@ -54,7 +54,7 @@ const Hero = () => {
       const captionStyle = {
         fontSize: "2em",
         fontWeight: "bold",
-        color: "yellow",
+        color: "#FBD519",
       };
   return (
     <div>
